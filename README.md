@@ -46,4 +46,4 @@ Screenshot 6: Map showing my info on my 4 itinerary cities in India from Deliver
  
 
 ## Summary
-As an avid traveler I thoroughly enjoyed this challenge.  In all my travels, I have been to all seven continents and visited 35 different countries.  Nevertheless, there is still much to explore.  For Deliverable 3, I chose India for my vacation itinerary because I have not been to India, and I hope to go there someday.  
+As an avid traveler, I thoroughly enjoyed this challenge.  In all my travels, I have been to all seven continents and have visited 35 different countries.  That being said, there is still plenty to explore.  For Deliverable 3, I chose India for my vacation itinerary because I have not been to India (but I hope to go there someday.)  
