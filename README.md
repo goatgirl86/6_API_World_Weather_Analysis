@@ -2,7 +2,8 @@
 
 ## Project Overview
 
--	Related GitHub Folders: Weather_Database, Vacation_Search, Vacation_Itinerary
+-	Related "Challenge" GitHub Folders: Weather_Database, Vacation_Search, Vacation_Itinerary
+-	Other folders were used for practice during class exercises.
 
 
 ### Purpose
